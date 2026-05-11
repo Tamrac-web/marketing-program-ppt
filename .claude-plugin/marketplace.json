@@ -12,8 +12,9 @@
         "name": "zone"
       },
       "source": {
-        "source": "git",
-        "url": "https://github.com/Tamrac-web/marketing-program-ppt.git"
+        "source": "git-subdir",
+        "url": "https://github.com/Tamrac-web/marketing-program-ppt.git",
+        "path": "plugin"
       }
     }
   ]
