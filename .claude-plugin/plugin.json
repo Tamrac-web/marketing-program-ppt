@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "marketing-program-ppt",
+  "version": "1.0.0",
+  "description": "医疗健康营销推广方案 PPT 一键生成。输入公司名+产品名，自动调研市场、分析竞品、设计推广策略，输出 25-30 页专业方案 PPT。",
+  "author": {
+    "name": "zone",
+    "email": "7zofun7@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["marketing", "healthcare", "pptx", "medical-device", "campaign", "competitive-analysis"]
+}
