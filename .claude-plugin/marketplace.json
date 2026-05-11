@@ -1,0 +1,21 @@
+{
+  "name": "marketing-program-ppt",
+  "description": "医疗健康营销推广方案 PPT 一键生成插件",
+  "owner": {
+    "name": "zone"
+  },
+  "plugins": [
+    {
+      "name": "marketing-program-ppt",
+      "description": "医疗健康营销推广方案 PPT 一键生成。输入公司名+产品名，自动调研市场、分析竞品、设计推广策略，输出 25-30 页专业方案 PPT。",
+      "author": {
+        "name": "zone"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Tamrac-web/marketing-program-ppt.git",
+        "path": "."
+      }
+    }
+  ]
+}
